@@ -1,0 +1,4 @@
+Transformers version: 4.44.2
+Torch version: 2.4.1+cpu
+Flask version: 3.0.3
+Requests version: 2.31.0
